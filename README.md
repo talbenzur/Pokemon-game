@@ -1,5 +1,7 @@
 React Pokemon game.
 
+https://tal-pokemon-game-react-app.netlify.app
+
 8 Pokemon are divided into 2 groups. Each group gets 4 Pokemon randomly.
 
 The winning team is decided by the higher score.
